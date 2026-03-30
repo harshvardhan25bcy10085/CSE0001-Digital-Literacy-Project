@@ -1,0 +1,7 @@
+Phishing is a type of cyberattack in which attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trustworthy entity. It commonly occurs through emails, messages, or fake websites that closely resemble legitimate ones.
+
+A typical phishing attack follows several steps. First, the attacker creates a fake message that appears to come from a trusted source, such as a bank or a well-known company. Next, the message includes a sense of urgency, for example, “Your account will be blocked if you do not act immediately.” Then, the victim is asked to click on a link, which redirects them to a fake website that looks almost identical to the real one. Once the victim enters their login credentials or personal information, the attacker captures this data and can misuse it.
+
+For example, a college student named Rahul receives an email claiming to be from his bank, asking him to verify his account details. Without checking the email carefully, he clicks the link and enters his login information. Within hours, unauthorized transactions are made from his account.
+
+Phishing attacks usually target individuals who are less aware of cybersecurity practices, including students, elderly people, and busy professionals. The consequences can be serious, including financial loss, identity theft, and unauthorized access to personal or academic accounts. Therefore, awareness and caution are essential to prevent such attacks.
