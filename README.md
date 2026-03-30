@@ -1,5 +1,4 @@
 # CSE0001-Digital-Literacy-Project
-Here is your **README.md** without emojis, clean and professional:
 
 ---
 
